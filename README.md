@@ -97,25 +97,29 @@ turning theory into deployed, monitored, production-style projects.
 
 # 📂 Other Projects
 
-**[terraform-wordpress-infrastructure](https://github.com/Ali-Doghan/terraform-wordpress-infrastructure)**
-Modular Terraform IaC deploying a 3-tier WordPress infrastructure on AWS
-`Terraform` `AWS` `RDS`
+<h3><a href="https://github.com/Ali-Doghan/terraform-wordpress-infrastructure">terraform-wordpress-infrastructure</a></h3>
+<p>Modular Terraform IaC deploying a 3-tier WordPress infrastructure on AWS</p>
+<p><code>Terraform</code> <code>AWS</code> <code>RDS</code></p>
+<br>
 
-**[ansible-prestashop-deployment](https://github.com/Ali-Doghan/ansible-prestashop-deployment)**
-Ansible roles automating a Prestashop deployment with MySQL, secrets managed via Vault
-`Ansible` `MySQL` `Vault`
+<h3><a href="https://github.com/Ali-Doghan/ansible-prestashop-deployment">ansible-prestashop-deployment</a></h3>
+<p>Ansible roles automating a Prestashop deployment with MySQL, secrets managed via Vault</p>
+<p><code>Ansible</code> <code>MySQL</code> <code>Vault</code></p>
+<br>
 
-**[k8s-user-api-deployment](https://github.com/Ali-Doghan/k8s-user-api-deployment)**
-Kubernetes deployment of a FastAPI service with MySQL backend, Secrets, and Ingress
-`Kubernetes` `FastAPI` `MySQL`
+<h3><a href="https://github.com/Ali-Doghan/k8s-user-api-deployment">k8s-user-api-deployment</a></h3>
+<p>Kubernetes deployment of a FastAPI service with MySQL backend, Secrets, and Ingress</p>
+<p><code>Kubernetes</code> <code>FastAPI</code> <code>MySQL</code></p>
+<br>
 
-**[jenkins-microservices-cicd](https://github.com/Ali-Doghan/jenkins-microservices-cicd)**
-Jenkins pipeline deploying FastAPI microservices to Kubernetes via Helm, multi-environment promotion
-`Jenkins` `Helm` `Kubernetes`
+<h3><a href="https://github.com/Ali-Doghan/jenkins-microservices-cicd">jenkins-microservices-cicd</a></h3>
+<p>Jenkins pipeline deploying FastAPI microservices to Kubernetes via Helm, multi-environment promotion</p>
+<p><code>Jenkins</code> <code>Helm</code> <code>Kubernetes</code></p>
+<br>
 
-**[smart-city-care](https://github.com/Ali-Doghan/smart-city-care)**
-Laravel-based municipal reporting platform, containerized with Docker and GitLab CI/CD
-`Laravel` `Docker` `GitLab CI`
+<h3><a href="https://github.com/Ali-Doghan/smart-city-care">smart-city-care</a></h3>
+<p>Laravel-based municipal reporting platform, containerized with Docker and GitLab CI/CD</p>
+<p><code>Laravel</code> <code>Docker</code> <code>GitLab CI</code></p>
 
 <br>
 
