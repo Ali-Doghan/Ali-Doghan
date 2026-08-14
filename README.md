@@ -1,8 +1,8 @@
-<h1 align="center">Hi 👋, I'm Ali Doghan</h1>
+<h1 align="center">Hello 👋, I'm Ali Doghan</h1>
 <h3 align="center">DevOps & Cloud Engineer | AWS · Kubernetes · Terraform · CI/CD</h3>
 
 <p align="center">
-Software Engineering student (University of Greater Manchester) building end-to-end DataOps/DevOps pipelines —
+Software Engineering student (University of Greater Manchester) building end-to-end DataOps/DevOps pipelines — 
 from Infrastructure as Code to observability. Currently completing an intensive DataOps Bootcamp,
 turning theory into deployed, monitored, production-style projects.
 </p>
@@ -51,6 +51,7 @@ turning theory into deployed, monitored, production-style projects.
 **Databases**
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Neo4j](https://img.shields.io/badge/Neo4j-4581C3?style=for-the-badge&logo=neo4j&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 </td>
