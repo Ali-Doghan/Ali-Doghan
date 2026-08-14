@@ -17,13 +17,9 @@ turning theory into deployed, monitored, production-style projects.
 <img src="https://img.shields.io/github/followers/Ali-Doghan?label=Followers&style=flat&color=2496ED" alt="followers" />
 </p>
 
-<br>
+---
 
-## 🔧 Tech Stack
-
-<table>
-<tr>
-<td valign="top" width="50%">
+### 🔧 Tech Stack
 
 **Cloud & Infrastructure**
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
@@ -40,9 +36,6 @@ turning theory into deployed, monitored, production-style projects.
 ![GitLab CI](https://img.shields.io/badge/GitLab_CI-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 
-</td>
-<td valign="top" width="50%">
-
 **Monitoring & Security**
 ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
@@ -56,15 +49,11 @@ turning theory into deployed, monitored, production-style projects.
 **Databases**
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Neo4j](https://img.shields.io/badge/Neo4j-4581C3?style=for-the-badge&logo=neo4j&logoColor=white)
 
-</td>
-</tr>
-</table>
+---
 
-<br>
-
-## 📊 GitHub Stats
+### 📊 GitHub Stats
 
 <p align="center">
 <img height="165" src="https://github-readme-stats.vercel.app/api?username=Ali-Doghan&show_icons=true&theme=default&hide_border=true&count_private=true" />
@@ -75,9 +64,9 @@ turning theory into deployed, monitored, production-style projects.
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ali-Doghan&hide_border=true" alt="streak stats"/>
 </p>
 
-<br>
+---
 
-## 🚀 Featured Project
+### 🚀 Featured Project
 
 **[DST Airlines](https://github.com/Ali-Doghan/dst-airlines)** — End-to-end DataOps platform for flight delay analytics.
 
@@ -97,33 +86,21 @@ turning theory into deployed, monitored, production-style projects.
 </p>
 </details>
 
-<br>
+---
 
-## 📂 Other Projects
-
-| Project | Description | Stack |
-|---|---|---|
-| **[terraform-wordpress-infrastructure](https://github.com/Ali-Doghan/terraform-wordpress-infrastructure)** | Modular Terraform IaC deploying a 3-tier WordPress infrastructure on AWS | Terraform, AWS, RDS |
-| **[ansible-prestashop-deployment](https://github.com/Ali-Doghan/ansible-prestashop-deployment)** | Ansible roles automating a Prestashop deployment with MySQL, secrets managed via Vault | Ansible, MySQL, Vault |
-| **[k8s-user-api-deployment](https://github.com/Ali-Doghan/k8s-user-api-deployment)** | Kubernetes deployment of a FastAPI service with MySQL backend, Secrets, and Ingress | Kubernetes, FastAPI, MySQL |
-| **[jenkins-microservices-cicd](https://github.com/Ali-Doghan/jenkins-microservices-cicd)** | Jenkins pipeline deploying FastAPI microservices to Kubernetes via Helm, multi-environment promotion | Jenkins, Helm, Kubernetes |
-| **[smart-city-care](https://github.com/Ali-Doghan/smart-city-care)** | Laravel-based municipal reporting platform, containerized with Docker and GitLab CI/CD | Laravel, Docker, GitLab CI |
-
-<br>
-
-## 🎯 Currently Focused On
+### 🎯 Currently Focused On
 
 - Deepening Kubernetes & GitOps practices (ArgoCD)
 - Building a personal K8s cluster on Proxmox from scratch
 - Preparing for DevOps/Cloud Engineer roles in Chemnitz, Germany 🇩🇪
 
-<br>
+---
 
-## 📫 Connect with me
+### 📫 Connect with me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/Eng-AliDoghan)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alidoghan@hotmail.com)
 
-<br>
+---
 
 <p align="center"><i>Turning infrastructure into code, one commit at a time.</i></p>
