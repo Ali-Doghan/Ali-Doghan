@@ -1,5 +1,10 @@
 <h1 align="center">Hello 👋, I'm Ali Doghan</h1>
-<h3 align="center">DevOps & Cloud Engineer | AWS · Kubernetes · Terraform · CI/CD</h3>
+
+<p align="center">
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2496ED&center=true&vCenter=true&width=600&lines=DevOps+%26+Cloud+Engineer;AWS+%7C+Kubernetes+%7C+Terraform;CI%2FCD+%7C+Observability+%7C+IaC" alt="Typing SVG" />
+</a>
+</p>
 
 <p align="center">
 Software Engineering student (University of Greater Manchester) building end-to-end DataOps/DevOps pipelines — 
@@ -12,13 +17,9 @@ turning theory into deployed, monitored, production-style projects.
 <img src="https://img.shields.io/github/followers/Ali-Doghan?label=Followers&style=flat&color=2496ED" alt="followers" />
 </p>
 
-<br>
+---
 
-# 🔧 Tech Stack
-
-<table>
-<tr>
-<td valign="top" width="50%">
+### 🔧 Tech Stack
 
 **Cloud & Infrastructure**
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
@@ -35,9 +36,6 @@ turning theory into deployed, monitored, production-style projects.
 ![GitLab CI](https://img.shields.io/badge/GitLab_CI-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 
-</td>
-<td valign="top" width="50%">
-
 **Monitoring & Security**
 ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
@@ -52,15 +50,10 @@ turning theory into deployed, monitored, production-style projects.
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Neo4j](https://img.shields.io/badge/Neo4j-4581C3?style=for-the-badge&logo=neo4j&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-</td>
-</tr>
-</table>
+---
 
-<br>
-
-# 📊 GitHub Stats
+### 📊 GitHub Stats
 
 <p align="center">
 <img height="165" src="https://github-readme-stats.vercel.app/api?username=Ali-Doghan&show_icons=true&theme=default&hide_border=true&count_private=true" />
@@ -71,9 +64,9 @@ turning theory into deployed, monitored, production-style projects.
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ali-Doghan&hide_border=true" alt="streak stats"/>
 </p>
 
-<br>
+---
 
-# 🚀 Featured Project
+### 🚀 Featured Project
 
 **[DST Airlines](https://github.com/Ali-Doghan/dst-airlines)** — End-to-end DataOps platform for flight delay analytics.
 
@@ -93,49 +86,21 @@ turning theory into deployed, monitored, production-style projects.
 </p>
 </details>
 
-<br>
+---
 
-# 📂 Other Projects
-
-<h3><a href="https://github.com/Ali-Doghan/terraform-wordpress-infrastructure">terraform-wordpress-infrastructure</a></h3>
-<p>Modular Terraform IaC deploying a 3-tier WordPress infrastructure on AWS</p>
-<p><code>Terraform</code> <code>AWS</code> <code>RDS</code></p>
-<br>
-
-<h3><a href="https://github.com/Ali-Doghan/ansible-prestashop-deployment">ansible-prestashop-deployment</a></h3>
-<p>Ansible roles automating a Prestashop deployment with MySQL, secrets managed via Vault</p>
-<p><code>Ansible</code> <code>MySQL</code> <code>Vault</code></p>
-<br>
-
-<h3><a href="https://github.com/Ali-Doghan/k8s-user-api-deployment">k8s-user-api-deployment</a></h3>
-<p>Kubernetes deployment of a FastAPI service with MySQL backend, Secrets, and Ingress</p>
-<p><code>Kubernetes</code> <code>FastAPI</code> <code>MySQL</code></p>
-<br>
-
-<h3><a href="https://github.com/Ali-Doghan/jenkins-microservices-cicd">jenkins-microservices-cicd</a></h3>
-<p>Jenkins pipeline deploying FastAPI microservices to Kubernetes via Helm, multi-environment promotion</p>
-<p><code>Jenkins</code> <code>Helm</code> <code>Kubernetes</code></p>
-<br>
-
-<h3><a href="https://github.com/Ali-Doghan/smart-city-care">smart-city-care</a></h3>
-<p>Laravel-based municipal reporting platform, containerized with Docker and GitLab CI/CD</p>
-<p><code>Laravel</code> <code>Docker</code> <code>GitLab CI</code></p>
-
-<br>
-
-# 🎯 Currently Focused On
+### 🎯 Currently Focused On
 
 - Deepening Kubernetes & GitOps practices (ArgoCD)
 - Building a personal K8s cluster on Proxmox from scratch
-- Preparing for DevOps/Cloud Engineer roles in Chemnitz, Germany
+- Preparing for DevOps/Cloud Engineer roles in Chemnitz, Germany 🇩🇪
 
-<br>
+---
 
-# 📫 Connect with me
+### 📫 Connect with me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/Eng-AliDoghan)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alidoghan@hotmail.com)
 
-<br>
+---
 
 <p align="center"><i>Turning infrastructure into code, one commit at a time.</i></p>
