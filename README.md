@@ -75,10 +75,16 @@ turning theory into deployed, monitored, production-style projects.
 - Backend on **FastAPI** with **PostgreSQL**, **MongoDB**, and **Neo4j**, serving an ML delay-prediction model
 - Delivered full documentation, defense presentation, and CI/CD-ready pipeline
 
-<!-- 
-لو عندك سكرين شوت من الـ architecture diagram أو Grafana dashboard، ارفعه لملف docs/ جوا الـ dst-airlines repo
-وضيف هون: ![Architecture](https://raw.githubusercontent.com/Ali-Doghan/dst-airlines/main/docs/architecture.png)
--->
+<p align="center">
+<img src="https://raw.githubusercontent.com/Ali-Doghan/dst-airlines/main/docs/Gemini_Prompt1_DataEngineer.png" width="800" />
+</p>
+
+<details>
+<summary>📐 Extended architecture (Dev/Prod, CI/CD pipeline, DR plan)</summary>
+<p align="center">
+<img src="https://raw.githubusercontent.com/Ali-Doghan/dst-airlines/main/docs/Gemini_Prompt2_DataOps.png" width="800" />
+</p>
+</details>
 
 ---
 
