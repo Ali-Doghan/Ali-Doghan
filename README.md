@@ -1,10 +1,20 @@
 <h1 align="center">Hi 👋, I'm Ali Doghan</h1>
-<h3 align="center">DevOps & Cloud Engineer | AWS | Kubernetes | Terraform | CI/CD</h3>
 
 <p align="center">
-Software Engineering student (University of Bolton) building end-to-end DataOps/DevOps pipelines — 
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2496ED&center=true&vCenter=true&width=600&lines=DevOps+%26+Cloud+Engineer;AWS+%7C+Kubernetes+%7C+Terraform;CI%2FCD+%7C+Observability+%7C+IaC" alt="Typing SVG" />
+</a>
+</p>
+
+<p align="center">
+Software Engineering student (University of Greater Manchester) building end-to-end DataOps/DevOps pipelines — 
 from Infrastructure as Code to observability. Currently completing an intensive DataOps Bootcamp,
 turning theory into deployed, monitored, production-style projects.
+</p>
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=Ali-Doghan&label=Profile%20Views&color=2496ED&style=flat" alt="profile views" />
+<img src="https://img.shields.io/github/followers/Ali-Doghan?label=Followers&style=flat&color=2496ED" alt="followers" />
 </p>
 
 ---
@@ -43,13 +53,32 @@ turning theory into deployed, monitored, production-style projects.
 
 ---
 
+### 📊 GitHub Stats
+
+<p align="center">
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Ali-Doghan&show_icons=true&theme=default&hide_border=true&count_private=true" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ali-Doghan&layout=compact&hide_border=true" />
+</p>
+
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Ali-Doghan&hide_border=true" alt="streak stats"/>
+</p>
+
+---
+
 ### 🚀 Featured Project
 
 **[DST Airlines](https://github.com/Ali-Doghan/dst-airlines)** — End-to-end DataOps platform for flight delay analytics.
+
 - Led infrastructure & deployment: **Docker**, **Kubernetes** manifests, **Terraform** IaC on Proxmox
 - Implemented **Trivy** security scanning and a full **Grafana/Prometheus** monitoring stack
 - Backend on **FastAPI** with **PostgreSQL**, **MongoDB**, and **Neo4j**, serving an ML delay-prediction model
 - Delivered full documentation, defense presentation, and CI/CD-ready pipeline
+
+<!-- 
+لو عندك سكرين شوت من الـ architecture diagram أو Grafana dashboard، ارفعه لملف docs/ جوا الـ dst-airlines repo
+وضيف هون: ![Architecture](https://raw.githubusercontent.com/Ali-Doghan/dst-airlines/main/docs/architecture.png)
+-->
 
 ---
 
@@ -63,8 +92,8 @@ turning theory into deployed, monitored, production-style projects.
 
 ### 📫 Connect with me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR-LINKEDIN)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR-EMAIL@example.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/Eng-AliDoghan)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alidoghan@hotmail.com)
 
 ---
 
