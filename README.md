@@ -92,7 +92,7 @@ turning theory into deployed, monitored, production-style projects.
 
 - Deepening Kubernetes & GitOps practices (ArgoCD)
 - Building a personal K8s cluster on Proxmox from scratch
-- Preparing for DevOps/Cloud Engineer roles in Chemnitz, Germany 🇩🇪
+- Preparing for DevOps/Cloud Engineer roles in Chemnitz, Germany
 
 ---
 
