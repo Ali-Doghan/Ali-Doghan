@@ -7,9 +7,9 @@
 </p>
 
 <p align="center">
-Software Engineering student (University of Greater Manchester) building end-to-end DataOps/DevOps pipelines — 
-from Infrastructure as Code to observability. Currently completing an intensive DataOps Bootcamp,
-turning theory into deployed, monitored, production-style projects.
+B.Eng. Software Engineering (University of Greater Manchester) · Liora-certified Data Engineer, DataOps & Cloud Engineer,
+in academic partnership with Sorbonne University, Paris. Building end-to-end DataOps/DevOps pipelines —
+from Infrastructure as Code to observability, turning theory into deployed, monitored, production-style projects.
 </p>
 
 <p align="center">
