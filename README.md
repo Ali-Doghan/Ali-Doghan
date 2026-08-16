@@ -56,8 +56,8 @@ turning theory into deployed, monitored, production-style projects.
 ### 📊 GitHub Stats
 
 <p align="center">
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Ali-Doghan&show_icons=true&theme=default&hide_border=true&count_private=true" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ali-Doghan&layout=compact&hide_border=true" />
+<img height="165" src="https://github-readme-stats-ali-doghan1.vercel.app/api?username=Ali-Doghan&show_icons=true&theme=default&hide_border=true&count_private=true" />
+<img height="165" src="https://github-readme-stats-ali-doghan1.vercel.app/api/top-langs/?username=Ali-Doghan&layout=compact&hide_border=true" />
 </p>
 
 <p align="center">
